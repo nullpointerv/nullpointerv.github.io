@@ -1,4 +1,4 @@
-const apikey = process.env.API_KEY;
+// const apikey = process.env.API_KEY;
 
 
 const apikey = 'c7e26d113d654766a567c8d9513de99d';
