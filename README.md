@@ -17,3 +17,4 @@ CSS3 for styling and responsiveness.
 JavaScript (ES6) for dynamic content fetching and rendering.
 NewsAPI for fetching real-time news articles.
 # News-Search
+# searchnewsbykhushi.github.io
