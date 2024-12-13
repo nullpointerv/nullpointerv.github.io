@@ -1,6 +1,9 @@
-const apikey = process.env.NEWS_API_KEY;
 
-const apikey = 'c7e26d113d654766a567c8d9513de99d';
+// const apikey = 'c7e26d113d654766a567c8d9513de99d';
+// Use environment variable in production, or fallback to local key
+const apikey = process.env.NEWS_API_KEY || 'c7e26d113d654766a567c8d9513de99d';  
+
+
 const blogContainer = document.getElementById("Blog-Container");
 
 const searchField=document.getElementById('search')
