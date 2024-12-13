@@ -102,7 +102,7 @@ overflow: hidden;
     overflow: hidden; /* Hide overflowing text */
     text-overflow: ellipsis; /* Add ellipsis for overflow */
     display: -webkit-box;
-    -webkit-line-clamp: 3; /* Limit to 3 lines */
+    -webkit-line-clamp: 1; /* Limit to 3 lines */
     -webkit-box-orient: vertical;
 }
 .Blog-Cards h2{
